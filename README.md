@@ -1,4 +1,4 @@
-# NSDI_Labeling_system
+# IFIP_Labeling_system
 ZEAL - Labeling system for unseen IoT Devices
 Cybersecurity companies and network device manufacturers aim to provide visibility to the devices connceted to their networks and reveal both vendor
 (e.g., nest, ring, etc.) and function (e.g., speaker, camera, vacuum cleaner, etc.). We address the challenge of type labeling of an
